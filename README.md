@@ -19,7 +19,7 @@ Please fee free to raise your issues in Issues Tab
 ** 1 Jun 2016 ** Updated fixes with Lagna start end time and Bhaava Table.
 
 **15 Apr 2016 :** Uploaded all files to GitHub. Was originally kept at code.google.com
-28/02/2011 New convension for versioning is being introduced. All Version 1.xx will be Single File Java Script version i.e Just one single .html file should be sufficient for sSanjayPrabhakaran (SanjayP) ·imple Panchanga Calculations.
+28/02/2011 New convension for versioning is being introduced. All Version 1.xx will be Single File Java Script version i.e Just one single .html file should be sufficient for sSanjayPrabhakaran (SanjayP) ·imple Panchanga   Calculations.
 
 **Older than 2016 Update History.**
 
